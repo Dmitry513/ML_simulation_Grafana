@@ -1,4 +1,5 @@
 ## Симуляция работы ML-модели на "исторических" данных
+### Ссылка на Хабр: https://habr.com/ru/company/nornickel/blog/689484/
 ![Dashboard](./Imgs/dashboard.png)
 
 В директории "Python":
